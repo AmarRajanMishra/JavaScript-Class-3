@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color: black;
+    text-align: center;
+}
+.text-heading{
+    margin: 20px;
+    text-align: center;
+    color: white;
+}
+.bulb-section{
+   margin: 40px;
+}
+
+.btn{
+    height: 30px;
+    width: 120px;
+    border-radius: 20px;
+    background-color: rgb(30, 197, 175);
+}
+#bulb{
+    height: 600px;
+    width: 400px;
+}
